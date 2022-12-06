@@ -14,6 +14,7 @@
         <module>aoc1_2022</module>
         <module>aoc2_2022</module>
         <module>aoc3_2022</module>
+        <module>aoc4_2022</module>
     </modules>
 
     <properties>
